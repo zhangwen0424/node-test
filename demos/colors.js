@@ -1,7 +1,8 @@
 "use strict"
 var Module = 'colors';
 /**
- * 小结
+ * colors[npm包]
+ * 
  * 用法：colors.yellow("打印内容") 或 "打印内容".red
  * 
  * 颜色

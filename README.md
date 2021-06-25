@@ -9,9 +9,10 @@
 
 ## 项目目录
 - [node-test](https://github.com/zhangwen0424/node-test "node-test") node根目录
-    - [packages](https://github.com/zhangwen0424/node-test/tree/master/packages) node开发包的学习和使用
-        - [colors](https://github.com/zhangwen0424/node-test/blob/master/packages/colors.js) 终端打印给点颜色看看
-        - [fs](https://github.com/zhangwen0424/node-test/blob/master/packages/fs.js) 文件及文件夹操作
+    - [demos](https://github.com/zhangwen0424/node-test/tree/master/demos) node开发包的学习和使用
+        - [colors](https://github.com/zhangwen0424/node-test/blob/master/demos/colors.js) 终端打印给点颜色看看
+        - [fs](https://github.com/zhangwen0424/node-test/blob/master/demos/fs.js) 文件及文件夹操作
+        - [nconf](https://github.com/zhangwen0424/node-test/blob/master/demos/nconf.js) 文件、环境变量、命令行参数以及原子对象整合,提供分层配置
 
 
 

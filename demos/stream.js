@@ -1,5 +1,5 @@
 /**
-  * stream流
+  * stream流[node内置]
   * Readable－可读
   * Writable－可写
   * Duplex－可读可写
